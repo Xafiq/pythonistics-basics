@@ -1,1 +1,0 @@
-liste = [250, "Python", True]
